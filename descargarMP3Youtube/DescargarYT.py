@@ -15,5 +15,5 @@ url = "https://www.youtube.com/watch?v=LocWjiSWBLo&ab_channel=Flushed"
 descargar_video(url)
 
 # Ejecutar con py .\archivo.py
-# Martin que no se te olvide cambiar la url, sino te descarga el mismo vídeo xd
+# Que no se te olvide cambiar la url, sino te descarga el mismo vídeo xd
 # La calidad es 360p pero sino es un lio pq tengo que utilizar ffmpeg
