@@ -16,4 +16,4 @@ descargar_video(url)
 
 # Ejecutar con py .\archivo.py
 # Que no se te olvide cambiar la url, sino te descarga el mismo vídeo xd
-# La calidad es 360p pero sino es un lio pq tengo que utilizar ffmpeg
+
